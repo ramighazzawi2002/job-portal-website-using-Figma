@@ -6,14 +6,10 @@ Welcome to the Job Portal project! This is a web application designed to connect
 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Features
 
-- User authentication and authorization
 - Job search functionality
 - Save job postings
 - Apply for jobs
